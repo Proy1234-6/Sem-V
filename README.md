@@ -24,3 +24,8 @@ $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
   * Zeeman Effect (Broadning of Spectrum line
    * Anamalous & Normal
   * Stern & Garlach's Experiment
+ ## DS1
+ ### Special Theory of Relativity
+ ### Stat Mech
+ $$S= -K_Bln\Omega$$
+ * Micro Canonical Ensemble
