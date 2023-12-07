@@ -11,5 +11,5 @@ $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
   $$\frac{-\hbar^2}{2m}\nabla^2\psi+ V(x)\psi =E\psi$$
   * Infinite Well & Harmonic Osscilator (Cartesian Coordinate)
   * Angular Momentum
-  * Hydrogen Atom problem
+  * **Hydrogen Atom problem**
     
