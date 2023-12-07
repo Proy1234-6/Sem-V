@@ -34,4 +34,5 @@ $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
  * Micro Canonical Ensemble
    * Postulate of Equal a priori probability  $P_r = \frac{1}{\Omega}$
  * Cannonical Ensemble
-   * PArtition function ($Z=e^-{\beta E}$)
+   * Partition function ($Z=\exp{-\beta E}$)
+   * Internal Energy ($U=\sum_r{E_r\exp{-\beta E_r} $) *Internal energy is the Laplace transformation of partition function*
