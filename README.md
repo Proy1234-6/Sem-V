@@ -27,5 +27,6 @@ $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
  ## DS1
  ### Special Theory of Relativity
  ### Stat Mech
- $$S= -K_Bln\Omega$$
+ $$S= -k_Bln\Omega \hspace{0.2 mm} S = -k_B<lnP>$$
+ 
  * Micro Canonical Ensemble
