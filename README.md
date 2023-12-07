@@ -1,5 +1,5 @@
 # Sem-V
-> Physics is in my heart <3 
+>Physics is in my heart <3 
 ## RK Sir
 * Time independent Schrodinger Eq
 $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
