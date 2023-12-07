@@ -32,4 +32,4 @@ $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
  $$S = -k_B\sum_r P_rlnP_r$$
  
  * Micro Canonical Ensemble
-  * Postulate of Equal a priori probability  $P_r = \frac{1}{\Omega}$ 
+   * Postulate of Equal a priori probability  $P_r = \frac{1}{\Omega}$ 
