@@ -34,4 +34,4 @@ $$\frac{-\hbar^2}{2m}\frac{d^2\psi}{dx^2} + V(x)\psi =E\psi$$
  * Micro Canonical Ensemble
    * Postulate of Equal a priori probability  $P_r = \frac{1}{\Omega}$
  * Cannonical Ensemble
-   * PArtition function ($Z=e^-{\betaE}$)
+   * PArtition function ($Z=e^-{\beta E}$)
